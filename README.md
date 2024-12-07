@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TUSHAR-DALVI-09
-- 👀 I’m Fornt-end Developer
-- 🌱 I’m currently Working on React-js
-- 💞️ I’m looking to collaborate on making website and animation.
+- 👀 I’m Web Developer
+- 🌱 I’m currently Working on React-js and PHP Developer.
+- 💞️ I’m looking to collaborate on making website.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
