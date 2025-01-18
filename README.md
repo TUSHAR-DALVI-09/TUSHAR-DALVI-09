@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TUSHAR-DALVI-09
+- 👋 Hi, I’m @TUSHAR-DALVI
 - 👀 I’m Web Developer
 - 🌱 I’m currently Working on React-js and PHP Developer.
 - 💞️ I’m looking to collaborate on making website.
